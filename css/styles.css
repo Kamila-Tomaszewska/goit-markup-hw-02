@@ -1,0 +1,57 @@
+.logo {
+    font-family: "Raleway";
+    font-style: normal;
+    font-size: 26px;
+}
+
+#logo-first-part {
+    color: #2196F3;
+}
+
+.navigation {
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.nav-font-change:focus {
+    color:#2196F3;
+}
+
+.contact {
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+
+.colour-change {
+    background-color: #F5F4FA;
+}
+
+.colour-change:hover {
+    background-color: #2196F3;
+}
+
+.font-change {
+    font-family: "Roboto";
+    font-style: normal;
+    font-size: 16px;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.font-change:hover {
+    color: #FFFFFF;
+}
+button {
+    border: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #212121;
+}
