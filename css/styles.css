@@ -1,3 +1,8 @@
+body {
+    font-family: "Roboto";
+    color: #212121;
+}
+
 .logo {
     font-family: "Raleway";
     font-style: normal;
@@ -9,46 +14,40 @@
 }
 
 .navigation {
-    font-family: "Roboto";
     font-style: normal;
     font-size: 14px;
-    letter-spacing: 0.02em;
     color: #212121;
-    display: flex;
 }
+
 
 .nav-font-change:focus {
     color:#2196F3;
 }
 
+.nav-font-change:hover {
+    color:#2196F3;
+}
+
 .contact {
-    font-family: "Roboto";
     font-style: normal;
     font-size: 14px;
     letter-spacing: 0.02em;
     color: #757575;
-    display: flex;
 }
 
 .colour-change {
     background-color: #F5F4FA;
-}
-
-.colour-change:hover {
-    background-color: #2196F3;
-}
-
-.font-change {
-    font-family: "Roboto";
     font-style: normal;
     font-size: 16px;
     letter-spacing: 0.03em;
     color: #212121;
 }
 
-.font-change:hover {
-    color: #FFFFFF;
+.colour-change:hover {
+    background-color: #2196F3;
+    color: #F5F4FA;
 }
+
 button {
     border: 0;
 }
@@ -56,4 +55,15 @@ button {
 a {
     text-decoration: none;
     color: #212121;
+}
+
+.image-description-1 {
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.image-description-2 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #757575;
 }
